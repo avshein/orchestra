@@ -1,0 +1,13 @@
+node_id, type, tag, id, mobility level, security risk, security level, tag, properties
+1,ssid, “yellow; SSID”, starbucks, 0, 80, 0, security=“WPA2 Personal”
+2,wifi, “yellow, WI-FI”, f0:18:98:23:ce:54, 100, 80, 5, mtu=1500
+3, bluetooth, “blue; BT”, 00:10:60:AB:63:8F, 100, 50, 5, ”Fimware revision”=“V 972”
+4, usb, “blue; USB”, 221A:0100:00, 100, 10, 5, serial=3b0021001747533236240023
+5, usb, “blue; USB”, 221A:0101:01, 50, 10, 20, serial=475332362400233b00210017
+6, bluetooth, “blue; BT”, 00:10:60:FA:23:F1, 50, 10, 20, ”Fimware revision”=“V 974”
+7, wifi, “green; Wi-Fi”, f0:18:98:12:eb:41, 50, 10, 20, mtu=1500, tag=“green, wi-fi”
+8,ssid, “green; SSID”, orchestra, 0, 10, 20, security=“WPA2 Enterprise”
+9, ap, “green; Org AP”, 2345719201, 0, 80, 0, location=“CLA2340B ”
+10, ap, “yellow; Pub AP”, 3429145929, 0, 10, 20, location=“B1F1R23” 
+11, phone, “blue; Phone”, 287362518461, 50, 10, 20, name=“my phone”
+12, laptop, “blue; Laptop”, 91874727183891, 50, 10, 20, name=“my laptop”
