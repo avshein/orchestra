@@ -1,4 +1,4 @@
-node_id, type, tag, id, mobility level, security risk, security level, tag, properties
+node_id, type, tag, id, mobility level, security risk, security level, properties
 1,ssid, “yellow; SSID”, starbucks, 0, 80, 0, security=“WPA2 Personal”
 2,wifi, “yellow; WI-FI”, f0:18:98:23:ce:54, 100, 80, 5, mtu=1500
 3, bluetooth, “blue; BT”, 00:10:60:AB:63:8F, 100, 50, 5, ”Fimware revision”=“V 972”
